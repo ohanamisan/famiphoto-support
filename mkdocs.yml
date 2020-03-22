@@ -11,7 +11,7 @@ copyright: '&copy; 2020 aoking'
 docs_dir: 'docs'
 theme:
   name: 'material'
-  language: 'en'
+  language: 'ja'
   shortcuts:
     help: 191    # ?
     next: 78     # n
@@ -42,7 +42,7 @@ extra_css:
 extra:
   manifest: 'manifest.json'
   search:
-    language: 'en'
+    language: 'ja'
   social:
     - type: 'twitter'
       link: 'https://twitter.com/namidame_Ba'
