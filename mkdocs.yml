@@ -1,0 +1,58 @@
+# Project information
+site_name: 'FamiPhoto 使い方ガイド'
+site_description: 'FamiPhotoの使い方ガイドサイトです'
+site_author: 'aoking'
+site_url: 'https://famiphoto-support.netlify.com/'
+
+# Copyright
+copyright: '&copy; 2020 aoking'
+
+# Configuration
+docs_dir: 'docs'
+theme:
+  name: 'material'
+  language: 'en'
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+  palette:
+    primary: 'green'
+    accent: 'green'
+  feature:
+    tabs: false
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - mdx_math:
+      enable_dollar_delimiter: true
+  - toc:
+      permalink: true
+      separator: '_'
+
+# Customization
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML'
+extra_css:
+  - 'assets/css/custom.css'
+extra:
+  manifest: 'manifest.json'
+  search:
+    language: 'en'
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/namidame_Ba'
+
+# Page tree
+nav:
+  - 'FamiPhoto': 'index.md'
+  - 'はじめかた':
+      - 'LINE BOTの招待': 'getting-started/bot-invitation.md'
+      - 'iPadでの使い方': 'getting-started/use-ipad.md'
+      - 'その他タブレットへの導入': 'getting-started/use-other.md'
+  - '利用規約': 'license/license.md'
+  - 'お問い合わせ': 'https://forms.gle/TKhweykFAADD5myNA'
