@@ -55,5 +55,8 @@ nav:
       - 'LINE BOTの招待': 'getting-started/bot-invitation.md'
       - 'iPadでの使い方': 'getting-started/use-ipad.md'
       - 'その他タブレットへの導入': 'getting-started/use-other.md'
+  - '機能一覧':
+      - 'LINEグループトーク内の機能': 'functions/command.md'
+      - 'FamiPhotoアプリ内の機能': 'functions/app.md'
 #  - '利用規約': 'license/license.md'
   - 'お問い合わせ': 'https://forms.gle/TKhweykFAADD5myNA'
