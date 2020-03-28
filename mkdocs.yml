@@ -50,9 +50,10 @@ extra:
 # Page tree
 nav:
   - 'FamiPhoto': 'index.md'
+  - 'サービスご利用前の注意事項': 'notes.md'
   - 'はじめかた':
       - 'LINE BOTの招待': 'getting-started/bot-invitation.md'
       - 'iPadでの使い方': 'getting-started/use-ipad.md'
       - 'その他タブレットへの導入': 'getting-started/use-other.md'
-  - '利用規約': 'license/license.md'
+#  - '利用規約': 'license/license.md'
   - 'お問い合わせ': 'https://forms.gle/TKhweykFAADD5myNA'
