@@ -9,11 +9,11 @@
 - IDでの検索を選択し、検索欄に`@840aidte`と入力
 - FamiPhotoのbotが表示されるので友だち追加しておきます
 
-<img src="https://raw.githubusercontent.com/ohanamisan/famiphoto-support/master/docs/images/bot-friend-search.png" alt="FamiPhoto icon" width="170">
+<img src="https://raw.githubusercontent.com/ohanamisan/famiphoto-support/master/docs/images/bot-friend-search.png" alt="FamiPhoto icon" width="300">
 
 下記のQRコードからでも友だち追加することができます
 
-<img src="https://raw.githubusercontent.com/ohanamisan/famiphoto-support/master/docs/images/qr-code.png" alt="FamiPhoto icon" width="170">
+<img src="https://raw.githubusercontent.com/ohanamisan/famiphoto-support/master/docs/images/qr-code.png" alt="FamiPhoto icon" width="300">
 
 ## グループに招待
 
@@ -24,7 +24,7 @@
 - `名前で検索`に`famiphoto`と入力
 - 検索結果に出るbotを選択
 - その他グループに追加したいユーザーを選択し追加ボタンを入力します
-<img src="https://raw.githubusercontent.com/ohanamisan/famiphoto-support/master/docs/images/new-group-create.png" alt="FamiPhoto icon" width="170">
+<img src="https://raw.githubusercontent.com/ohanamisan/famiphoto-support/master/docs/images/new-group-create.png" alt="FamiPhoto icon" width="300">
 
 ### 既存グループへの追加
 

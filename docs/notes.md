@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/ohanamisan/famiphoto-support/master/docs/images/famiphoto-icon-192x192.png" alt="FamiPhoto icon" width="170">
+    <img src="https://raw.githubusercontent.com/ohanamisan/famiphoto-support/master/docs/images/famiphoto-icon-192x192.png" alt="FamiPhoto icon" width="192">
     <br>サービスご利用前の注意事項
 </h1>
 
