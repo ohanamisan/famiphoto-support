@@ -7,7 +7,7 @@
     FamiPhotoはLINEのグループチャットで共有した写真をスライドショーとして<br>
     Webページで閲覧することができるサービスです。<br>
     botの機能を使用する前に必ず<a href="https://famiphoto-support.netlify.com/notes/">サービスご利用前の注意事項</a>をご一読ください。<br>
-    サービスを利用される際は上記<a href="https://famiphoto-support.netlify.com/notes/">サービスご利用前の注意事項</a>を承認したものといたします。
+    サービスを利用される際は上記<a href="https://famiphoto-support.netlify.com/notes/">サービスご利用前の注意事項</a>に同意したものといたします。
 </div>
 
 
